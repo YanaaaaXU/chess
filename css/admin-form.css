@@ -1,0 +1,1242 @@
+/* screen - admin-form */
+
+.admin-form {
+  align-items: flex-start;
+  background-color: var(--ffffff);
+  border: 1px none;
+  display: flex;
+  gap: 25px;
+  height: 982px;
+  overflow: hidden;
+  width: 1519px;
+}
+
+.admin-form .left_nav_bar {
+  align-items: flex-start;
+  background-color: var(--wintergreen-dream);
+  display: flex;
+  flex-direction: column;
+  margin-left: -85px;
+  margin-top: -3px;
+  min-height: 1014px;
+  padding: 44px 12px;
+  width: 343px;
+}
+
+.admin-form .menu {
+  align-items: flex-start;
+  align-self: center;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  margin-right: 72.0px;
+  min-height: 29px;
+  transition: all 0.2s ease;
+  width: 47px;
+}
+
+.admin-form .menu:hover {
+  transform: rotate(15deg);
+}
+
+.admin-form .rectangle {
+  background-color: var(--ffffff);
+  border-radius: 5px;
+  height: 7px;
+  width: 47px;
+}
+
+.admin-form .view {
+  align-items: center;
+  cursor: pointer;
+  display: flex;
+  gap: 34px;
+  margin-left: 15px;
+  margin-top: 24px;
+  min-width: 147px;
+  transition: all 0.2s linear;
+}
+
+.admin-form .view:hover {
+  transform: translate(5px, 0);
+}
+
+.admin-form .rectangle-31 {
+  background-color: var(--ffffff);
+  height: 84px;
+  width: 63px;
+}
+
+.admin-form .text-3 {
+  height: 28px;
+  min-width: 48px;
+  white-space: nowrap;
+}
+
+.admin-form .view-1 {
+  align-items: center;
+  cursor: pointer;
+  display: flex;
+  gap: 22px;
+  margin-top: 15px;
+  min-width: 198px;
+  transition: all 0.2s linear;
+}
+
+.admin-form .view-1:hover {
+  transform: translate(5px, 0);
+}
+
+.admin-form .rectangle-31-1 {
+  width: 78px;
+}
+
+.admin-form .text-4 {
+  height: 28px;
+  margin-bottom: 16.0px;
+  min-width: 96px;
+  white-space: nowrap;
+}
+
+.admin-form .view-2 {
+  align-items: center;
+  cursor: pointer;
+  display: flex;
+  gap: 18px;
+  margin-left: 15px;
+  margin-top: 15px;
+  min-width: 195px;
+  transition: all 0.2s linear;
+}
+
+.admin-form .view-2:hover {
+  transform: translate(5px, 0);
+}
+
+.admin-form .rectangle-31-2 {
+  width: 79px;
+}
+
+.admin-form .text-5 {
+  height: 28px;
+  margin-top: 2.0px;
+  width: 96px;
+}
+
+.admin-form .flex-col {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 37px;
+  margin-top: 20px;
+  min-height: 848px;
+  width: 1176px;
+}
+
+.admin-form .top_bar {
+  align-items: flex-start;
+  display: flex;
+  min-width: 1176px;
+}
+
+.admin-form .view-3 {
+  align-items: center;
+  align-self: center;
+  cursor: pointer;
+  display: flex;
+  gap: 19px;
+  height: 28px;
+  margin-bottom: 1.0px;
+  min-width: 143px;
+  padding: 0 0.2px;
+}
+
+.admin-form .vector {
+  height: 22px;
+  margin-top: 1.39px;
+  width: 26px;
+}
+
+.admin-form .text-2 {
+  min-height: 28px;
+  min-width: 96px;
+  white-space: nowrap;
+}
+
+.admin-form .x2023-08-08-1042-1 {
+  height: 87px;
+  margin-left: 311px;
+  object-fit: cover;
+  width: 317px;
+}
+
+.admin-form .text-1 {
+  margin-left: 288px;
+  margin-top: 13px;
+  min-height: 28px;
+  min-width: 72px;
+  white-space: nowrap;
+}
+
+.admin-form .vector-1 {
+  height: 26px;
+  margin-left: 20px;
+  margin-top: 11px;
+  width: 23px;
+}
+
+.admin-form .overlap-group {
+  border-radius: 16px;
+  height: 724px;
+  margin-left: 22.7px;
+  position: relative;
+  width: 1127px;
+}
+
+.admin-form .frame-13 {
+  align-items: center;
+  background-color: var(--ffffff);
+  border: 2px solid;
+  border-color: var(--ffffff);
+  border-radius: 16px;
+  box-shadow: 0px 14px 14px #14162605;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1127px;
+}
+
+.admin-form .frame-9 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  height: 56px;
+  justify-content: space-between;
+  padding: 18px;
+  position: relative;
+  width: 100%;
+}
+
+.admin-form .frame-47 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 18px;
+  margin-bottom: -18.00px;
+  margin-top: -18.00px;
+  position: relative;
+}
+
+.admin-form .frame-10 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  height: 56px;
+  justify-content: space-between;
+  position: relative;
+}
+
+.admin-form .rectangle-9 {
+  align-self: stretch;
+  background-color: var(--x3b72ff);
+  height: 3px;
+  opacity: 0;
+  position: relative;
+  width: 100%;
+}
+
+.admin-form .table-title {
+  color: var(--x181c25);
+  font-family: var(--font-family-lato);
+  font-size: var(--font-size-l);
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.admin-form .rectangle-8 {
+  align-self: stretch;
+  background-color: var(--x3b72ff);
+  border-radius: 2px;
+  height: 3px;
+  opacity: 0;
+  position: relative;
+  width: 100%;
+}
+
+.admin-form .frame-8 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 4px;
+  position: relative;
+}
+
+.admin-form .show-11-items {
+  color: var(--x3b72ff);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-m);
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.admin-form .frame-8-arrows-property-24 {
+  height: 18px;
+  position: relative;
+  width: 18px;
+}
+
+.admin-form .line-2 {
+  background-image: url(../img/line-19.svg);
+  background-position: 50% 50%;
+  background-size: cover;
+}
+
+.admin-form .frame-10-1 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--ffffff);
+  display: flex;
+  flex: 0 0 auto;
+  gap: 4px;
+  padding: 0px 18px;
+  position: relative;
+  width: 100%;
+}
+
+.admin-form .select-4-user {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  text-align: justify;
+}
+
+.admin-form .frame-64 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.admin-form .frame-1 {
+  align-items: center;
+  display: flex;
+  height: 48px;
+  justify-content: center;
+  padding: 18px;
+  position: relative;
+  width: 48px;
+}
+
+.admin-form .x-24px {
+  height: 22px;
+  margin-bottom: -5.00px;
+  margin-left: -5.00px;
+  margin-right: -5.00px;
+  margin-top: -5.00px;
+  position: relative;
+  width: 22px;
+}
+
+.admin-form .frame-8-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  height: 54px;
+  position: relative;
+  width: 100%;
+}
+
+.admin-form .frame-10-2 {
+  height: 54px;
+  position: relative;
+  width: 56px;
+}
+
+.admin-form .frame-9-1 {
+  align-items: center;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  gap: 10px;
+  height: 54px;
+  justify-content: center;
+  padding: 18px 0px;
+  position: relative;
+}
+
+.admin-form .search-name-date-number {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+}
+
+.admin-form .line-22 {
+  object-fit: cover;
+}
+
+.admin-form .frame-52 {
+  align-items: flex-start;
+  align-self: stretch;
+  border-radius: 6px;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.admin-form .line-21 {
+  background-image: url(../img/line-19.svg);
+  background-position: 50% 50%;
+  background-size: cover;
+  margin-top: -1.00px;
+}
+
+.admin-form .frame-10-3 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--alabaster);
+  display: flex;
+  flex: 0 0 auto;
+  position: relative;
+  width: 100%;
+}
+
+.admin-form .frame-15 {
+  align-items: center;
+  display: flex;
+  gap: 8px;
+  height: 38px;
+  padding: 18px;
+  position: relative;
+  width: 220px;
+}
+
+.admin-form .check-box-1 {
+  background-color: var(--f4f5f7);
+  border: 2px solid;
+  border-color: var(--c4c8d4);
+  border-radius: 6px;
+  height: 22px;
+  margin-bottom: -10.00px;
+  margin-top: -10.00px;
+  position: relative;
+  width: 22px;
+}
+
+.admin-form .frame-12 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 4px;
+  margin-bottom: -7.00px;
+  margin-top: -7.00px;
+  position: relative;
+}
+
+.admin-form .first-name-last-name {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: justify;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.admin-form .frame-1-1 {
+  flex: 1;
+  flex-grow: 1;
+  gap: 4px;
+  height: 38px;
+}
+
+.admin-form .date {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: -6.00px;
+  margin-top: -8.00px;
+  position: relative;
+  text-align: justify;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.admin-form .title {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: -6.00px;
+  margin-top: -8.00px;
+  position: relative;
+  text-align: justify;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.admin-form .frame-14 {
+  align-items: center;
+  display: flex;
+  gap: 4px;
+  height: 38px;
+  padding: 18px;
+  position: relative;
+  width: 140px;
+}
+
+.admin-form .status {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: -6.00px;
+  margin-top: -8.00px;
+  position: relative;
+  text-align: justify;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.admin-form .frame {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  height: 48px;
+  position: relative;
+  width: 100%;
+}
+
+.admin-form .frame-1-2 {
+  align-self: stretch;
+  gap: 8px;
+  width: 220px;
+}
+
+.admin-form .check-box {
+  background-color: var(--f4f5f7);
+  border: 2px solid;
+  border-color: var(--c4c8d4);
+  border-radius: 6px;
+  height: 22px;
+  margin-bottom: -5.00px;
+  margin-top: -5.00px;
+  position: relative;
+  width: 22px;
+}
+
+.admin-form .adison-rhiel-madsen {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: -1.00px;
+  margin-top: -3.00px;
+  position: relative;
+  text-align: justify;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.admin-form .frame-2 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  gap: 2px;
+  padding: 18px;
+  position: relative;
+}
+
+.admin-form .x04122003-0321 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: -1.00px;
+  margin-top: -3.00px;
+  position: relative;
+  text-align: justify;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.admin-form .number {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: -1.00px;
+  margin-top: -3.00px;
+  position: relative;
+  text-align: justify;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.admin-form .phone {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: -1.00px;
+  margin-top: -3.00px;
+  position: relative;
+  text-align: justify;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.admin-form .x1014948571 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: -1.00px;
+  margin-top: -3.00px;
+  position: relative;
+  text-align: justify;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.admin-form .x204620215 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: -1.00px;
+  margin-top: -3.00px;
+  position: relative;
+  text-align: justify;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.admin-form .frame-1-3 {
+  align-self: stretch;
+  gap: 2px;
+  width: 140px;
+}
+
+.admin-form .frame-3 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--alabaster);
+  display: flex;
+  height: 48px;
+  position: relative;
+  width: 100%;
+}
+
+.admin-form .paityn-lubin {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: -1.00px;
+  margin-top: -3.00px;
+  position: relative;
+  text-align: justify;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.admin-form .x10012003-1254 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: -1.00px;
+  margin-top: -3.00px;
+  position: relative;
+  text-align: justify;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.admin-form .x326072197 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: -1.00px;
+  margin-top: -3.00px;
+  position: relative;
+  text-align: justify;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.admin-form .x2116946119 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: -1.00px;
+  margin-top: -3.00px;
+  position: relative;
+  text-align: justify;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.admin-form .x2468359653 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: -1.00px;
+  margin-top: -3.00px;
+  position: relative;
+  text-align: justify;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.admin-form .active-user {
+  align-items: center;
+  background-color: var(--e3ebff);
+  border-radius: 6px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  height: 19px;
+  margin-bottom: -3.50px;
+  margin-top: -3.50px;
+  padding: 8px;
+  position: relative;
+}
+
+.admin-form .active {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: -4.50px;
+  margin-top: -6.50px;
+  position: relative;
+  text-align: justify;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.admin-form .phillip-bator {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: -1.00px;
+  margin-top: -3.00px;
+  position: relative;
+  text-align: justify;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.admin-form .x3295600186 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: -1.00px;
+  margin-top: -3.00px;
+  position: relative;
+  text-align: justify;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.admin-form .x4342350566 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: -1.00px;
+  margin-top: -3.00px;
+  position: relative;
+  text-align: justify;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.admin-form .x3659452875 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: -1.00px;
+  margin-top: -3.00px;
+  position: relative;
+  text-align: justify;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.admin-form .paityn-lubin-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: -1.00px;
+  margin-top: -3.00px;
+  position: relative;
+  text-align: justify;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.admin-form .x1333259209 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: -1.00px;
+  margin-top: -3.00px;
+  position: relative;
+  text-align: justify;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.admin-form .x2161461668 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: -1.00px;
+  margin-top: -3.00px;
+  position: relative;
+  text-align: justify;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.admin-form .x4548195087 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: -1.00px;
+  margin-top: -3.00px;
+  position: relative;
+  text-align: justify;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.admin-form .phillip-bator-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: -1.00px;
+  margin-top: -3.00px;
+  position: relative;
+  text-align: justify;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.admin-form .x5018611282 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: -1.00px;
+  margin-top: -3.00px;
+  position: relative;
+  text-align: justify;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.admin-form .x32864525 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: -1.00px;
+  margin-top: -3.00px;
+  position: relative;
+  text-align: justify;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.admin-form .x507714880 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: -1.00px;
+  margin-top: -3.00px;
+  position: relative;
+  text-align: justify;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.admin-form .emerson-stanton {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: -1.00px;
+  margin-top: -3.00px;
+  position: relative;
+  text-align: justify;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.admin-form .x3013870738 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: -1.00px;
+  margin-top: -3.00px;
+  position: relative;
+  text-align: justify;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.admin-form .x1095531016 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: -1.00px;
+  margin-top: -3.00px;
+  position: relative;
+  text-align: justify;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.admin-form .x3937088894 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: -1.00px;
+  margin-top: -3.00px;
+  position: relative;
+  text-align: justify;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.admin-form .alfredo-rhiel-madsen {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: -1.00px;
+  margin-top: -3.00px;
+  position: relative;
+  text-align: justify;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.admin-form .x03082019-1254 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: -1.00px;
+  margin-top: -3.00px;
+  position: relative;
+  text-align: justify;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.admin-form .x20019945 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: -1.00px;
+  margin-top: -3.00px;
+  position: relative;
+  text-align: justify;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.admin-form .x602962792 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: -1.00px;
+  margin-top: -3.00px;
+  position: relative;
+  text-align: justify;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.admin-form .x4345725150 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: -1.00px;
+  margin-top: -3.00px;
+  position: relative;
+  text-align: justify;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.admin-form .brandon-levin {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: -1.00px;
+  margin-top: -3.00px;
+  position: relative;
+  text-align: justify;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.admin-form .x4071448747 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: -1.00px;
+  margin-top: -3.00px;
+  position: relative;
+  text-align: justify;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.admin-form .x4386028802 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: -1.00px;
+  margin-top: -3.00px;
+  position: relative;
+  text-align: justify;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.admin-form .x822377016 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: -1.00px;
+  margin-top: -3.00px;
+  position: relative;
+  text-align: justify;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.admin-form .craig-torff {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: -1.00px;
+  margin-top: -3.00px;
+  position: relative;
+  text-align: justify;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.admin-form .x868284816 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: -1.00px;
+  margin-top: -3.00px;
+  position: relative;
+  text-align: justify;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.admin-form .x3539651260 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: -1.00px;
+  margin-top: -3.00px;
+  position: relative;
+  text-align: justify;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.admin-form .x4875793419 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: -1.00px;
+  margin-top: -3.00px;
+  position: relative;
+  text-align: justify;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.admin-form .skylar-george {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: -1.00px;
+  margin-top: -3.00px;
+  position: relative;
+  text-align: justify;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.admin-form .x4095810708 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: -1.00px;
+  margin-top: -3.00px;
+  position: relative;
+  text-align: justify;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.admin-form .x481205449 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: -1.00px;
+  margin-top: -3.00px;
+  position: relative;
+  text-align: justify;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.admin-form .x1344378766 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: -1.00px;
+  margin-top: -3.00px;
+  position: relative;
+  text-align: justify;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.admin-form .alfredo-rhiel-madsen-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: -1.00px;
+  margin-top: -3.00px;
+  position: relative;
+  text-align: justify;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.admin-form .x3532223111 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: -1.00px;
+  margin-top: -3.00px;
+  position: relative;
+  text-align: justify;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.admin-form .x350923109 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: -1.00px;
+  margin-top: -3.00px;
+  position: relative;
+  text-align: justify;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.admin-form .x3515645476 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: -1.00px;
+  margin-top: -3.00px;
+  position: relative;
+  text-align: justify;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.admin-form .active-user-1 {
+  top: 594px;
+}
+
+.admin-form .active-user-2 {
+  top: 306px;
+}
+
+.admin-form .active-user-3 {
+  top: 544px;
+}
+
+.admin-form .active-user-4 {
+  top: 497px;
+}
+
+.admin-form .active-user-5 {
+  top: 450px;
+}
+
+.admin-form .active-user-6 {
+  top: 400px;
+}
+
+.admin-form .active-user-7 {
+  top: 206px;
+}
+
+.admin-form .active-user-8 {
+  top: 353px;
+}
+
+.admin-form .active-user-9 {
+  top: 688px;
+}
+
+.admin-form .active-user-10 {
+  top: 641px;
+}
+
+.admin-form .active-user-11 {
+  align-items: center;
+  background-color: var(--e3ebff);
+  border-radius: 6px;
+  display: inline-flex;
+  gap: 10px;
+  height: 19px;
+  left: 1004px;
+  padding: 8px;
+  position: absolute;
+}
+
+.admin-form .frame-1-4 {
+  align-items: center;
+  display: flex;
+  padding: 18px;
+  position: relative;
+}
+
+.admin-form .line {
+  align-self: stretch;
+  height: 1px;
+  position: relative;
+  width: 100%;
+}
+
+.admin-form .phone-11 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: -1.00px;
+  margin-top: -3.00px;
+  position: relative;
+  text-align: justify;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.admin-form .text {
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.admin-form .title-4 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: -6.00px;
+  margin-top: -8.00px;
+  position: relative;
+  text-align: justify;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.admin-form .x03082019-1254-3 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: -1.00px;
+  margin-top: -3.00px;
+  position: relative;
+  text-align: justify;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.admin-form .x04122003-0321-5 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: -1.00px;
+  margin-top: -3.00px;
+  position: relative;
+  text-align: justify;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.admin-form .x10012003-1254-3 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: -1.00px;
+  margin-top: -3.00px;
+  position: relative;
+  text-align: justify;
+  white-space: nowrap;
+  width: fit-content;
+}

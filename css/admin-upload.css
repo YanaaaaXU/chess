@@ -1,0 +1,694 @@
+/* screen - admin-upload */
+
+.admin-upload {
+  align-items: flex-start;
+  background-color: var(--ffffff);
+  border: 1px none;
+  display: flex;
+  gap: 29px;
+  height: 982px;
+  overflow: hidden;
+  width: 1512px;
+}
+
+.admin-upload .left_nav_bar {
+  align-items: flex-start;
+  background-color: var(--wintergreen-dream);
+  display: flex;
+  flex-direction: column;
+  margin-left: -86px;
+  min-height: 982px;
+  padding: 41px 40px;
+  width: 343px;
+}
+
+.admin-upload .menu {
+  align-items: flex-start;
+  align-self: center;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  margin-right: 70.0px;
+  min-height: 29px;
+  transition: all 0.2s ease;
+  width: 47px;
+}
+
+.admin-upload .menu:hover {
+  transform: rotate(15deg);
+}
+
+.admin-upload .rectangle {
+  background-color: var(--ffffff);
+  border-radius: 5px;
+  height: 7px;
+  width: 47px;
+}
+
+.admin-upload .view {
+  align-items: center;
+  cursor: pointer;
+  display: flex;
+  gap: 78px;
+  margin-top: 24px;
+  min-width: 179px;
+  transition: all 0.2s linear;
+}
+
+.admin-upload .view:hover {
+  transform: translate(5px, 0);
+}
+
+.admin-upload .rectangle-31 {
+  background-color: var(--ffffff);
+  height: 84px;
+  width: 51px;
+}
+
+.admin-upload .text-51 {
+  cursor: pointer;
+  height: 28px;
+  letter-spacing: 0;
+  line-height: normal;
+  min-width: 48px;
+  white-space: nowrap;
+}
+
+.admin-upload .view-1 {
+  align-items: center;
+  cursor: pointer;
+  display: flex;
+  gap: 53px;
+  margin-left: 12px;
+  margin-top: 15px;
+  min-width: 203px;
+  transition: all 0.2s linear;
+}
+
+.admin-upload .view-1:hover {
+  transform: translate(5px, 0);
+}
+
+.admin-upload .group-9979 {
+  background-color: var(--ffffff);
+  cursor: pointer;
+  height: 84px;
+  transition: all 0.2s linear;
+  width: 52px;
+}
+
+.admin-upload .group-9979:hover {
+  transform: translate(5px, 0);
+}
+
+.admin-upload .text-53 {
+  height: 28px;
+  letter-spacing: 0;
+  line-height: normal;
+  min-width: 96px;
+  white-space: nowrap;
+}
+
+.admin-upload .view-2 {
+  align-items: center;
+  cursor: pointer;
+  display: flex;
+  gap: 67px;
+  margin-left: 12px;
+  margin-top: 16px;
+  min-width: 180px;
+  transition: all 0.2s linear;
+}
+
+.admin-upload .view-2:hover {
+  transform: translate(5px, 0);
+}
+
+.admin-upload .rectangle-31-1 {
+  background-color: var(--ffffff);
+  height: 84px;
+  width: 39px;
+}
+
+.admin-upload .text-52 {
+  cursor: pointer;
+  height: 28px;
+  letter-spacing: 0;
+  line-height: normal;
+  min-width: 72px;
+  white-space: nowrap;
+}
+
+.admin-upload .flex-col {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 13px;
+  margin-top: 17px;
+  min-height: 909px;
+  width: 1171px;
+}
+
+.admin-upload .top_nav_bar {
+  align-items: flex-start;
+  display: flex;
+  min-width: 1169px;
+}
+
+.admin-upload .view-3 {
+  align-items: flex-start;
+  align-self: center;
+  cursor: pointer;
+  display: flex;
+  gap: 14px;
+  height: 28px;
+  margin-bottom: 2.9px;
+  min-width: 139px;
+  padding: 0 0.5px;
+}
+
+.admin-upload .vector {
+  height: 26px;
+  margin-top: 0.1px;
+  width: 27px;
+}
+
+.admin-upload .text-44 {
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 28px;
+  min-width: 96px;
+  white-space: nowrap;
+}
+
+.admin-upload .x2023-08-08-1042-1 {
+  height: 87px;
+  margin-left: 259px;
+  object-fit: cover;
+  width: 317px;
+}
+
+.admin-upload .user {
+  align-items: flex-start;
+  display: flex;
+  gap: 18px;
+  height: 35px;
+  margin-left: 341px;
+  margin-top: 9px;
+  min-width: 115px;
+}
+
+.admin-upload .text-43 {
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 28px;
+  min-width: 72px;
+  white-space: nowrap;
+}
+
+.admin-upload .vector-1 {
+  height: 29px;
+  width: 23px;
+}
+
+.admin-upload .flex-row {
+  align-items: center;
+  display: flex;
+  margin-left: 1px;
+  min-width: 1170px;
+}
+
+.admin-upload .overlap-group1 {
+  height: 625px;
+  margin-bottom: 65.99px;
+  position: relative;
+  width: 540px;
+}
+
+.admin-upload .white-background {
+  background-color: var(--ffffff);
+  border-radius: 4px;
+  box-shadow: 0px 6px 8px #0000000d;
+  height: 620px;
+  left: 0;
+  position: absolute;
+  top: 5px;
+  width: 540px;
+}
+
+.admin-upload .cta {
+  align-items: center;
+  background-color: var(--wintergreen-dream);
+  border-radius: 4px;
+  display: flex;
+  gap: 10px;
+  height: 45px;
+  justify-content: center;
+  left: 47px;
+  padding: 9px 14px;
+  position: absolute;
+  top: 550px;
+  width: 445px;
+}
+
+.admin-upload .label {
+  color: var(--ffffff);
+  font-family: var(--font-family-mulish);
+  font-size: var(--font-size-m);
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.admin-upload .file-upload-area {
+  align-items: center;
+  background-color: var(--thin-light-blue);
+  border: 1px dashed;
+  border-color: #384eb74c;
+  border-radius: 4px;
+  display: flex;
+  flex-direction: column;
+  left: 47px;
+  min-height: 202px;
+  padding: 29px 0;
+  position: absolute;
+  top: 93px;
+  width: 445px;
+}
+
+.admin-upload .upload-icon {
+  height: 60px;
+  margin-right: 2.22px;
+  width: 69px;
+}
+
+.admin-upload .text-4 {
+  color: transparent;
+  font-family: var(--font-family-mulish);
+  font-size: var(--font-size-l);
+  font-weight: 700;
+  height: 24px;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: 25px;
+  min-width: 233px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.admin-upload .span0 {
+  color: var(--woodsmoke);
+}
+
+.admin-upload .span1 {
+  color: #333333;
+}
+
+.admin-upload .span2 {
+  color: #2b5b32;
+  text-decoration: underline;
+}
+
+.admin-upload .dicom-xls {
+  color: #676767;
+  font-family: var(--font-family-mulish);
+  font-size: var(--font-size-s);
+  font-weight: 400;
+  height: 18px;
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-top: 10px;
+  min-width: 197px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.admin-upload .uploading-file-1 {
+  height: 37px;
+  left: 47px;
+  position: absolute;
+  top: 343px;
+  width: 445px;
+}
+
+.admin-upload .overlap-group {
+  height: 37px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 445px;
+}
+
+.admin-upload .grey-outline {
+  background-color: var(--ffffff);
+  border: 0.5px solid;
+  border-color: #e3e3e3;
+  border-radius: 4px;
+  height: 36px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 445px;
+}
+
+.admin-upload .loading-bar {
+  background-color: var(--forest-green);
+  border-radius: 10px;
+  height: 3px;
+  left: 0;
+  position: absolute;
+  top: 34px;
+  width: 275px;
+}
+
+.admin-upload .vector-2 {
+  height: 16px;
+  left: 419px;
+  position: absolute;
+  top: 10px;
+  width: 16px;
+}
+
+.admin-upload .dicom {
+  height: 18px;
+  left: 10px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  text-align: center;
+  top: 7px;
+  white-space: nowrap;
+}
+
+.admin-upload .uploaded-file-1 {
+  top: 438px;
+}
+
+.admin-upload .frame-7 {
+  align-items: flex-start;
+  display: inline-flex;
+  gap: 10px;
+  position: relative;
+}
+
+.admin-upload .xxxdicom {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.admin-upload .delete {
+  align-items: center;
+  background-color: var(--chablis);
+  border-radius: 8px;
+  display: flex;
+  height: 16px;
+  margin-bottom: 2.0px;
+  min-width: 16px;
+  padding: 0 4px;
+}
+
+.admin-upload .bin-icon {
+  height: 8px;
+  width: 8px;
+}
+
+.admin-upload .uploaded-file-2 {
+  top: 484px;
+}
+
+.admin-upload .xxxdicom-1 {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.admin-upload .text-46 {
+  color: var(--woodsmoke);
+  font-family: var(--font-family-mulish);
+  font-size: 32px;
+  font-weight: 700;
+  height: 40px;
+  left: 139px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+}
+
+.admin-upload .line-25 {
+  height: 809px;
+  margin-left: 30px;
+  object-fit: cover;
+  width: 7px;
+}
+
+.admin-upload .download {
+  height: 625px;
+  margin-bottom: 65.99px;
+  margin-left: 51px;
+  position: relative;
+  width: 542px;
+}
+
+.admin-upload .overlap-group2 {
+  height: 625px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 540px;
+}
+
+.admin-upload .cta-1 {
+  align-items: center;
+  background-color: var(--thin-light-blue);
+  border-radius: 4px;
+  display: flex;
+  gap: 10px;
+  height: 45px;
+  justify-content: center;
+  left: 47px;
+  padding: 9px 14px;
+  position: absolute;
+  top: 550px;
+  width: 445px;
+}
+
+.admin-upload .label-1 {
+  color: var(--black);
+  font-family: var(--font-family-mulish);
+  font-size: var(--font-size-m);
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.admin-upload .file-upload-area-1 {
+  align-items: center;
+  background-color: var(--wintergreen-dream);
+  border: 1px dashed;
+  border-color: #384eb74c;
+  border-radius: 4px;
+  display: flex;
+  flex-direction: column;
+  left: 47px;
+  min-height: 202px;
+  padding: 29px 0;
+  position: absolute;
+  top: 93px;
+  width: 445px;
+}
+
+.admin-upload .span0-1 {
+  color: #e7f5e7;
+}
+
+.admin-upload .span2-1 {
+  color: var(--ffffff);
+  text-decoration: underline;
+}
+
+.admin-upload .dicom-xls-1 {
+  color: var(--ffffff);
+  font-family: var(--font-family-mulish);
+  font-size: var(--font-size-s);
+  font-weight: 400;
+  height: 18px;
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-top: 10px;
+  min-width: 197px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.admin-upload .uploading-file-1-1 {
+  height: 54px;
+  left: 47px;
+  position: absolute;
+  top: 343px;
+  width: 445px;
+}
+
+.admin-upload .overlap-group-1 {
+  align-items: flex-start;
+  background-color: var(--ffffff);
+  border: 0.5px solid;
+  border-color: #e41d1d;
+  border-radius: 4px;
+  display: flex;
+  height: 36px;
+  justify-content: flex-end;
+  left: 0;
+  min-width: 445px;
+  padding: 9.5px 10.5px;
+  position: absolute;
+  top: 0;
+}
+
+.admin-upload .cross-icon {
+  height: 16px;
+  width: 16px;
+}
+
+.admin-upload .your-file-herepdf {
+  height: 18px;
+  left: 10px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  text-align: center;
+  top: 7px;
+  white-space: nowrap;
+}
+
+.admin-upload .text-49 {
+  color: #e41d1d;
+  font-family: var(--font-family-mulish);
+  font-size: 10px;
+  font-weight: 500;
+  height: 18px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  text-align: center;
+  top: 35px;
+  white-space: nowrap;
+}
+
+.admin-upload .uploaded-file-1-1 {
+  align-items: center;
+  background-color: var(--ffffff);
+  border: 1px solid;
+  border-color: var(--forest-green);
+  border-radius: 4px;
+  display: flex;
+  gap: 366px;
+  height: 36px;
+  left: 47px;
+  min-width: 445px;
+  padding: 0 10px;
+  position: absolute;
+  top: 438px;
+}
+
+.admin-upload .xxxxls {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.admin-upload .uploaded-file-2-1 {
+  align-items: center;
+  background-color: var(--ffffff);
+  border: 1px solid;
+  border-color: var(--forest-green);
+  border-radius: 4px;
+  display: flex;
+  gap: 358px;
+  height: 36px;
+  left: 47px;
+  min-width: 445px;
+  padding: 0 10px;
+  position: absolute;
+  top: 484px;
+}
+
+.admin-upload .xxxxxls {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.admin-upload .text-50 {
+  color: var(--woodsmoke);
+  font-family: var(--font-family-mulish);
+  font-size: 32px;
+  font-weight: 700;
+  height: 40px;
+  left: 190px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+}
+
+.admin-upload .text-48 {
+  color: #676767;
+  font-family: var(--font-family-mulish);
+  font-size: var(--font-size-m);
+  font-weight: 700;
+  height: 18px;
+  left: 47px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 314px;
+}
+
+.admin-upload .uploaded-file {
+  align-items: center;
+  background-color: var(--ffffff);
+  border: 1px solid;
+  border-color: var(--forest-green);
+  border-radius: 4px;
+  display: flex;
+  gap: 346px;
+  height: 36px;
+  left: 47px;
+  min-width: 445px;
+  padding: 0 10px;
+  position: absolute;
+}

@@ -1,0 +1,515 @@
+/* screen - admin-dashboard */
+
+.admin-dashboard {
+  align-items: flex-start;
+  background-color: var(--ffffff);
+  border: 1px none;
+  display: flex;
+  height: 982px;
+  overflow: hidden;
+  width: 1512px;
+}
+
+.admin-dashboard .left-border {
+  align-items: flex-start;
+  background-color: var(--wintergreen-dream);
+  display: flex;
+  flex-direction: column;
+  margin-left: -86px;
+  min-height: 982px;
+  padding: 41px 36px;
+  width: 343px;
+}
+
+.admin-dashboard .group-9965 {
+  align-items: flex-start;
+  align-self: center;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  margin-right: 70.0px;
+  min-height: 29px;
+  transition: all 0.2s ease;
+  width: 47px;
+}
+
+.admin-dashboard .group-9965:hover {
+  transform: rotate(15deg);
+}
+
+.admin-dashboard .rectangle {
+  background-color: var(--ffffff);
+  border-radius: 5px;
+  height: 7px;
+  width: 47px;
+}
+
+.admin-dashboard .group-9966 {
+  align-items: center;
+  cursor: pointer;
+  display: flex;
+  gap: 26px;
+  margin-left: 12px;
+  margin-top: 24px;
+  min-width: 130px;
+  transition: all 0.2s linear;
+}
+
+.admin-dashboard .group-9966:hover {
+  transform: translate(5px, 0);
+}
+
+.admin-dashboard .rectangle-31 {
+  background-color: var(--ffffff);
+  height: 84px;
+  width: 56px;
+}
+
+.admin-dashboard .text-95 {
+  height: 28px;
+  width: 48px;
+}
+
+.admin-dashboard .group-9979 {
+  align-items: center;
+  cursor: pointer;
+  display: flex;
+  gap: 33px;
+  margin-top: 15px;
+  min-width: 186px;
+  transition: all 0.2s linear;
+}
+
+.admin-dashboard .group-9979:hover {
+  transform: translate(5px, 0);
+}
+
+.admin-dashboard .rectangle-31-1 {
+  width: 55px;
+}
+
+.admin-dashboard .text-96 {
+  height: 28px;
+  margin-top: 12.0px;
+  min-width: 96px;
+  white-space: nowrap;
+}
+
+.admin-dashboard .group-9980 {
+  align-items: center;
+  cursor: pointer;
+  display: flex;
+  gap: 33px;
+  margin-left: 4px;
+  margin-top: 15px;
+  min-width: 158px;
+  transition: all 0.2s linear;
+}
+
+.admin-dashboard .group-9980:hover {
+  transform: translate(5px, 0);
+}
+
+.admin-dashboard .rectangle-31-2 {
+  width: 51px;
+}
+
+.admin-dashboard .text-97 {
+  cursor: pointer;
+  height: 28px;
+  min-width: 72px;
+  white-space: nowrap;
+}
+
+.admin-dashboard .flex-col {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-top: 19px;
+  min-height: 1877px;
+  width: 1302px;
+}
+
+.admin-dashboard .top-nav-bar {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 22px;
+  min-width: 1181px;
+  padding: 0 0.5px;
+}
+
+.admin-dashboard .vector {
+  align-self: center;
+  height: 26px;
+  margin-bottom: 4.7px;
+  width: 27px;
+}
+
+.admin-dashboard .text-90 {
+  align-self: center;
+  margin-bottom: 0.8px;
+  margin-left: 12px;
+  min-height: 28px;
+  min-width: 120px;
+  white-space: nowrap;
+}
+
+.admin-dashboard .x2023-08-08-1042-1 {
+  height: 87px;
+  margin-left: 202px;
+  object-fit: cover;
+  width: 317px;
+}
+
+.admin-dashboard .text-89 {
+  margin-left: 202px;
+  margin-top: 14px;
+  min-height: 28px;
+  min-width: 72px;
+  white-space: nowrap;
+}
+
+.admin-dashboard .vector-1 {
+  height: 29px;
+  margin-left: 202px;
+  margin-top: 13px;
+  width: 23px;
+}
+
+.admin-dashboard .flex-row {
+  align-items: flex-end;
+  align-self: center;
+  display: flex;
+  margin-right: 77.0px;
+  margin-top: 16px;
+  min-width: 1109px;
+}
+
+.admin-dashboard .box1 {
+  align-items: flex-start;
+  background-color: var(--gin);
+  border-radius: 15px;
+  display: flex;
+  gap: 27px;
+  height: 113px;
+  justify-content: flex-end;
+  min-width: 226px;
+  padding: 25.0px 13.0px;
+}
+
+.admin-dashboard .vector-2 {
+  height: 53px;
+  width: 45px;
+}
+
+.admin-dashboard .overlap-group {
+  height: 47px;
+  margin-top: 0;
+  position: relative;
+  width: 115px;
+}
+
+.admin-dashboard .text-91 {
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 115px;
+}
+
+.admin-dashboard .number {
+  left: 15px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 26px;
+  white-space: nowrap;
+}
+
+.admin-dashboard .group-container {
+  align-items: flex-start;
+  background-color: #eaf0ec;
+  border-radius: 15px;
+  display: flex;
+  gap: 29px;
+  height: 113px;
+  justify-content: flex-end;
+  margin-left: 41px;
+  min-width: 226px;
+  padding: 28px 0;
+}
+
+.admin-dashboard .group-9972 {
+  align-self: center;
+  height: 53px;
+  margin-bottom: 1.81px;
+  width: 51px;
+}
+
+.admin-dashboard .overlap-group-1 {
+  height: 48px;
+  position: relative;
+  width: 122px;
+}
+
+.admin-dashboard .text-92 {
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 122px;
+}
+
+.admin-dashboard .number-1 {
+  left: 23px;
+  top: 27px;
+}
+
+.admin-dashboard .group-container-1 {
+  align-items: flex-start;
+  background-color: var(--gin);
+  border-radius: 15px;
+  display: flex;
+  gap: 20px;
+  height: 113px;
+  justify-content: flex-end;
+  margin-bottom: 0;
+  margin-left: 69px;
+  min-width: 226px;
+  padding: 29.0px 17px;
+}
+
+.admin-dashboard .group-9973 {
+  height: 53px;
+  width: 49px;
+}
+
+.admin-dashboard .overlap-group-2 {
+  align-self: center;
+  height: 49px;
+  margin-bottom: 0;
+  position: relative;
+  width: 106px;
+}
+
+.admin-dashboard .text-93 {
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 106px;
+}
+
+.admin-dashboard .number-2 {
+  left: 25px;
+  top: 28px;
+}
+
+.admin-dashboard .overlap-group5 {
+  border-radius: 15px;
+  height: 113px;
+  margin-left: 95px;
+  position: relative;
+  width: 226px;
+}
+
+.admin-dashboard .overlap-group-3 {
+  background-color: var(--gin);
+  border-radius: 15px;
+  height: 113px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 226px;
+}
+
+.admin-dashboard .text-94 {
+  left: 123px;
+  position: absolute;
+  top: 29px;
+  width: 78px;
+}
+
+.admin-dashboard .number-3 {
+  left: 151px;
+  top: 60px;
+}
+
+.admin-dashboard .vector-3 {
+  height: 24px;
+  left: 86px;
+  position: absolute;
+  top: 44px;
+  width: 24px;
+}
+
+.admin-dashboard .vector-4 {
+  height: 53px;
+  left: 30px;
+  position: absolute;
+  top: 29px;
+  width: 46px;
+}
+
+.admin-dashboard .overlap-group6 {
+  align-items: flex-start;
+  background-color: #c4c4c438;
+  display: flex;
+  height: 1633px;
+  margin-top: 28px;
+  min-width: 1302px;
+  padding: 47.0px 49px;
+}
+
+.admin-dashboard .flex-col-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 79px;
+  margin-top: 26.0px;
+  min-height: 565px;
+  width: 523px;
+}
+
+.admin-dashboard .overlap-group2 {
+  border-radius: 15px;
+  height: 246px;
+  position: relative;
+  width: 523px;
+}
+
+.admin-dashboard .rectangle-32 {
+  background-color: #cae9de;
+  border-radius: 15px;
+  cursor: pointer;
+  height: 246px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  transition: all 0.2s ease;
+  width: 523px;
+}
+
+.admin-dashboard .rectangle-32:hover {
+  background-color: #a8c1b8
+}
+
+.admin-dashboard .excel {
+  color: var(--black);
+  font-family: var(--font-family-roboto);
+  font-size: 40px;
+  font-weight: 600;
+  left: 87px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 76px;
+  width: 343px;
+}
+
+.admin-dashboard .span1 {
+  font-size: var(--font-size-l);
+}
+
+.admin-dashboard .upload {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  min-width: 518px;
+}
+
+.admin-dashboard .overlap-group1 {
+  border-radius: 15px;
+  height: 240px;
+  position: relative;
+  width: 518px;
+}
+
+.admin-dashboard .rectangle-32-1 {
+  background-color: var(--thin-light-blue);
+  border-radius: 15px;
+  cursor: pointer;
+  height: 240px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  transition: all 0.2s ease;
+  width: 518px;
+}
+
+.admin-dashboard .rectangle-32-1:hover {
+  background-color: #a5bbaa
+}
+
+.admin-dashboard .text-88 {
+  color: var(--black);
+  font-family: var(--font-family-roboto);
+  font-size: 36px;
+  font-weight: 600;
+  left: 133px;
+  position: absolute;
+  top: 82px;
+  width: 258px;
+}
+
+.admin-dashboard .line-1 {
+  height: 642px;
+  margin-left: 82px;
+  object-fit: cover;
+  width: 4px;
+}
+
+.admin-dashboard .pic-upload {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  margin-left: 75px;
+  margin-top: 149.0px;
+  min-width: 400px;
+}
+
+.admin-dashboard .overlap-group-4 {
+  border-radius: 15px;
+  height: 240px;
+  position: relative;
+  width: 400px;
+}
+
+.admin-dashboard .rectangle-32-2 {
+  background-color: #dadada;
+  border-radius: 15px;
+  cursor: pointer;
+  height: 240px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  transition: all 0.2s ease;
+  width: 400px;
+}
+
+.admin-dashboard .rectangle-32-2:hover {
+  background-color: #a5bbaa
+}
+
+.admin-dashboard .text-87 {
+  color: var(--black);
+  font-family: var(--font-family-roboto);
+  font-size: 36px;
+  font-weight: 600;
+  left: 92px;
+  position: absolute;
+  top: 99px;
+  white-space: nowrap;
+  width: 226px;
+}
+
+.admin-dashboard .number-4 {
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  white-space: nowrap;
+}
+
+.admin-dashboard .text {
+  letter-spacing: 0;
+  line-height: normal;
+}
